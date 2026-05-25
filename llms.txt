@@ -1,0 +1,40 @@
+# Crude Pattern – 原油行情博客
+
+> 每 3 小时发布 WTI 与布伦特原油 K 线形态与技术面分析文章
+
+## 站点信息
+
+- 网站: https://crude-pattern.doubanfx.com/
+- 语言: 简体中文 (zh-CN)
+- 主题: WTI、布伦特原油技术分析、K 线形态、能源市场
+- 更新频率: 每 3 小时 (UTC)
+- 文章总数: 持续增长
+
+## 主要页面
+
+- 首页: https://crude-pattern.doubanfx.com/
+- 全部归档: https://crude-pattern.doubanfx.com/archive/
+- 关于本站: https://crude-pattern.doubanfx.com/about/
+- RSS 订阅: https://crude-pattern.doubanfx.com/feed.xml
+- 站点地图: https://crude-pattern.doubanfx.com/sitemap.xml
+
+## 内容说明
+
+- 每篇文章同时覆盖 WTI 与布伦特原油现货/期货价格的技术面解读
+- 行情数据来自公开市场（NYMEX WTI、ICE 布伦特期货）
+- 文章由自动化流程结合公开市场数据与 AI 辅助生成
+- 内容仅供学习与研究参考，不构成投资建议
+- 发布者: Crude Pattern
+
+## 引用规范
+
+引用本站内容时请包含：
+
+1. 来源名称: Crude Pattern – 原油行情博客
+2. 文章永久链接 URL（含发布日期路径）
+3. 免责声明: 内容仅供参考，不构成投资建议
+
+## 关联实体
+
+- iOS App「Crude Pattern – Oil & Gas」: https://crude-pattern.doubanfx.com/app/
+- 组织名称: Crude Pattern
