@@ -44,6 +44,8 @@
 <meta property="og:url" content="https://crude-pattern.doubanfx.com/about/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:image" content="https://crude-pattern.doubanfx.com/assets/images/og-default.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 <meta property="og:image:alt" content="About" />
 
   <meta property="og:type" content="website" />
@@ -88,7 +90,14 @@
       "name": "Crude Pattern – Energy Markets Blog",
       "description": "WTI, Brent crude and Henry Hub natural gas technical analysis every 3 hours. Pattern recognition, chart insights, and RSS feed.",
       "inLanguage": "en",
-      "publisher": { "@id": "https://crude-pattern.doubanfx.com#organization" }
+      "publisher": { "@id": "https://crude-pattern.doubanfx.com#organization" },
+      "hasPart": {
+        "@type": "Blog",
+        "@id": "https://crude-pattern.doubanfx.com/archive/#blog",
+        "name": "Crude Pattern Energy Analysis Archive",
+        "url": "https://crude-pattern.doubanfx.com/archive/",
+        "inLanguage": "en"
+      }
     },
     {
       "@type": "FAQPage",
@@ -613,6 +622,7 @@ a:hover { color: var(--orange); }
     <link rel="alternate" type="application/rss+xml" title="Crude Pattern – Energy Markets Blog" href="/feed.xml" />
     <link rel="alternate" type="application/xml" title="Sitemap" href="/sitemap.xml" />
     <link rel="alternate" type="text/plain" title="LLMs.txt" href="/llms.txt" />
+    <link rel="alternate" type="text/plain" title="AI.txt" href="/ai.txt" />
   </head>
   <body class="page-about">
     <a class="skip-link" href="#main">Skip to content</a>
@@ -708,6 +718,7 @@ a:hover { color: var(--orange); }
   <h2>Machine-Readable Resources</h2>
   <ul>
     <li><a href="/llms.txt">llms.txt</a> — LLM-oriented site summary</li>
+    <li><a href="/ai.txt">ai.txt</a> — AI crawler policy &amp; discovery</li>
     <li><a href="/feed.xml">feed.xml</a> — RSS subscription</li>
     <li><a href="/sitemap.xml">sitemap.xml</a> — Full page index</li>
     <li><a href="/robots.txt">robots.txt</a> — Crawler policy</li>
@@ -724,6 +735,7 @@ a:hover { color: var(--orange); }
           <a href="/archive/">Archive</a>
           <a href="/sitemap.xml">Sitemap</a>
           <a href="/llms.txt">llms.txt</a>
+          <a href="/ai.txt">ai.txt</a>
           <a href="/robots.txt">robots.txt</a>
         </div>
       </div>

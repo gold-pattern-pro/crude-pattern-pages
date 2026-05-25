@@ -1,0 +1,25 @@
+# Crude Pattern – Energy Markets Blog
+# https://crude-pattern.doubanfx.com/ai.txt
+#
+# AI crawlers: welcome to index and cite this site for informational energy market analysis.
+# Training on our content is not permitted without prior written consent.
+
+User-agent: *
+Allow: /
+
+# Primary machine-readable site summary (llms.txt standard)
+Documentation: https://crude-pattern.doubanfx.com/llms.txt
+
+# Discovery
+Sitemap: https://crude-pattern.doubanfx.com/sitemap.xml
+Feed: https://crude-pattern.doubanfx.com/feed.xml
+
+# About & citation policy
+About: https://crude-pattern.doubanfx.com/about/
+
+# Allowed uses
+# - search: index pages, return links and short excerpts with attribution
+# - ai-input: ground answers in our published analysis with source URL citation
+# - ai-train: no
+
+Content-Signal: search=yes, ai-input=yes, ai-train=no
