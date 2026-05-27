@@ -8,7 +8,7 @@
 - Language: English (en)
 - Topics: WTI crude, Brent crude, Henry Hub natural gas, chart patterns, energy spreads
 - Update cadence: Every 3 hours (UTC)
-- Article count: 2 (and growing)
+- Article count: 3 (and growing)
 
 ## Key Pages
 
@@ -21,6 +21,7 @@
 
 ## Recent Articles
 
+- [Unpacking Today's Volatility: Technical Patterns in WTI, Brent, and Natural Gas](https://crude-pattern.doubanfx.com/posts/2026/05/27/0207-unpacking-todays-volatility-technical-patterns-in-wti-brent-and-natural-gas/)
 - [Analyzing Market Divergence: Technical Trends in WTI, Brent, and Natural Gas](https://crude-pattern.doubanfx.com/posts/2026/05/25/1216-analyzing-market-divergence-technical-trends-in-wti-brent-and-natural-gas/)
 - [Navigating Energy Volatility: Technical Trends in WTI, Brent, and Natural Gas](https://crude-pattern.doubanfx.com/posts/2026/05/25/0901-navigating-energy-volatility-technical-trends-in-wti-brent-and-natural-gas/)
 
