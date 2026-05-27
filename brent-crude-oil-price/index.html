@@ -124,6 +124,19 @@
 }
 </script>
 
+    
+
+<script>
+(function () {
+  var host = location.hostname.toLowerCase();
+  var allowed = "crude-pattern.doubanfx.com";
+  if (!allowed || host === allowed || host === "localhost" || host === "127.0.0.1") return;
+  if (host.endsWith(".github.io") || host.endsWith(".github.dev")) {
+    location.replace("https://" + allowed + location.pathname + location.search + location.hash);
+  }
+})();
+</script>
+
 
     <style>:root {
   --bg: #e8eef4;
