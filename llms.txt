@@ -1,13 +1,13 @@
 # Crude Pattern – Energy Markets Blog
 
-> WTI, Brent crude, and Henry Hub natural gas technical analysis every 3 hours
+> WTI, Brent crude, and Henry Hub natural gas technical analysis every hour
 
 ## Site Info
 
 - Website: https://crude-pattern.doubanfx.com/
 - Language: English (en)
 - Topics: WTI crude, Brent crude, Henry Hub natural gas, chart patterns, energy spreads
-- Update cadence: Every 3 hours (UTC)
+- Update cadence: Every hour (UTC)
 - Article count: 3 (and growing)
 
 ## Key Pages
