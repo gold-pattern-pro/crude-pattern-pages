@@ -20,5 +20,4 @@ Allow: /
 
 Sitemap: https://crude-pattern.doubanfx.com/sitemap.xml
 
-# LLM context: https://crude-pattern.doubanfx.com/llms.txt
-# AI policy:   https://crude-pattern.doubanfx.com/ai.txt
+# Site summary: https://crude-pattern.doubanfx.com/llms.txt
