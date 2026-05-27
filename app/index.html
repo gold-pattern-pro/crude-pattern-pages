@@ -14,6 +14,8 @@
     
 
 
+
+
     
 
 
@@ -647,20 +649,22 @@ a:hover { color: var(--orange); }
 
 
 
+
+
 <section class="about-section">
   <h1>Get Crude Pattern on the App Store</h1>
   <p>Choose your App Store region:</p>
   <ul>
-    <li><a id="app-store-intl" href="" rel="noopener noreferrer">International App Store</a></li>
-    <li><a id="app-store-cn" href="" rel="noopener noreferrer">China App Store</a></li>
+    <li><a id="app-store-intl" href="https://apps.apple.com/us/app/crude-pattern-oil-gas/id6755432212" rel="noopener noreferrer">International App Store</a></li>
+    <li><a id="app-store-cn" href="https://apps.apple.com/cn/app/id6755432212" rel="noopener noreferrer">China App Store</a></li>
   </ul>
   <p><a href="/">← Back to Crude Pattern home</a></p>
 </section>
 
 <script>
 (function () {
-  var cn = null;
-  var intl = null;
+  var cn = "https://apps.apple.com/cn/app/id6755432212";
+  var intl = "https://apps.apple.com/us/app/crude-pattern-oil-gas/id6755432212";
   var lang = (navigator.language || navigator.userLanguage || "").toLowerCase();
   var tz = "";
   try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
