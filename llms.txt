@@ -8,7 +8,7 @@
 - Language: English (en)
 - Topics: WTI crude, Brent crude, Henry Hub natural gas, chart patterns, energy spreads, quantitative trading
 - Editorial desk: 6 contributors (crude desk veterans, quant researchers, NG specialists)
-- Article count: 26 (and growing)
+- Article count: 27 (and growing)
 
 ## Key Pages
 
@@ -25,10 +25,12 @@
 
 ## Recent Articles
 
+- [Crude Oil Price Today: WTI Volatility Surges as Brent Premium Compresses to $3.45, Natural Gas Holds $3.07 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/28/1253-crude-oil-price-today-wti-volatility-surges-as-brent-premium-compresses-to-345-n/)
 - [Crude Oil Price Today: WTI Holds $90 as Brent Slips, Natural Gas Steady at $3.06 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/28/1001-crude-oil-price-today-wti-holds-90-as-brent-slips-natural-gas-steady-at-306-tech/)
 - [Crude Oil Price Today: Brent Underperformance Widens WTI-Brent Compression, Natural Gas Spikes on Demand Signal – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/2304-crude-oil-price-today-brent-underperformance-widens-wti-brent-compression-natura/)
 - [Oil Price Today: WTI Holds Above $89 as Brent Plunges 7%, Natural Gas Jumps 7% – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/1904-oil-price-today-wti-holds-above-89-as-brent-plunges-7-natural-gas-jumps-7-techni/)
 - [Crude Oil Price Today: WTI Surges 3.9% as Brent Premium Compresses, Natural Gas Steady at $3.08 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/28/0454-crude-oil-price-today-wti-surges-39-as-brent-premium-compresses-natural-gas-stea/)
+- [Oil Price Today: Brent Plunge Widens WTI Spread, Natural Gas Surges – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/1747-oil-price-today-brent-plunge-widens-wti-spread-natural-gas-surges-technical-anal/)
 - [Oil Price Today: WTI Holds Ground as Brent Craters, Henry Hub Surges on Storage Squeeze – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/28/0120-oil-price-today-wti-holds-ground-as-brent-craters-henry-hub-surges-on-storage-sq/)
 - [Oil Price Today: Brent Premium Widens to $3.39, Henry Hub Surges on Storage Tightness – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/2221-oil-price-today-brent-premium-widens-to-339-henry-hub-surges-on-storage-tightnes/)
 - [Crude Oil Price Today: WTI Outperforms Brent by $3.45, Natural Gas Jumps 6.7% – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/2127-crude-oil-price-today-wti-outperforms-brent-by-345-natural-gas-jumps-67-technica/)
@@ -42,9 +44,7 @@
 - [Unpacking Today's Volatility: Technical Patterns in WTI, Brent, and Natural Gas](https://crude-pattern.doubanfx.com/posts/2026/05/27/0207-unpacking-todays-volatility-technical-patterns-in-wti-brent-and-natural-gas/)
 - [Oil Price Today: WTI-Brent Spread Blowout Spurs Volatility – Brent Drops 6%, Natural Gas Jumps 6% – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/1416-oil-price-today-wti-brent-spread-blowout-spurs-volatility-brent-drops-6-natural/)
 - [Crude Oil Price Today: WTI Resilient Near $92, Brent Sinks 4.6%, Natural Gas Rally](https://crude-pattern.doubanfx.com/posts/2026/05/27/0536-crude-oil-price-today-wti-resilient-near-92-brent-sinks-46-natural-gas-rally/)
-- [Oil Price Today: Brent Plunge Widens WTI Spread, Natural Gas Surges – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/1747-oil-price-today-brent-plunge-widens-wti-spread-natural-gas-surges-technical-anal/)
 - [WTI-Brent Spread Widens as Volatility Surges: Technical Crude and Natural Gas Patterns](https://crude-pattern.doubanfx.com/posts/2026/05/27/0300-wti-brent-spread-widens-as-volatility-surges-technical-crude-and-natural-gas-pat/)
-- [Brent Crude Sinks 8% While WTI Holds: Oil Price Today and Natural Gas Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/27/0313-brent-crude-sinks-8-while-wti-holds-oil-price-today-and-natural-gas-technical-an/)
 
 ## Target Search Topics
 
