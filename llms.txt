@@ -8,7 +8,7 @@
 - Language: English (en)
 - Topics: WTI crude, Brent crude, Henry Hub natural gas, chart patterns, energy spreads, quantitative trading
 - Editorial desk: 6 contributors (crude desk veterans, quant researchers, NG specialists)
-- Article count: 63 (and growing)
+- Article count: 64 (and growing)
 
 ## Key Pages
 
@@ -25,26 +25,26 @@
 
 ## Recent Articles
 
-- [Crude Oil Price Today: Brent Premium Expands to $4.69 Amid WTI Weakness; Natural Gas Holds $3.29 as Storage Season Begins](https://crude-pattern.doubanfx.com/posts/2026/05/30/1110-crude-oil-price-today-brent-premium-expands-to-469-amid-wti-weakness-natural-gas/)
+- [Crude Oil Price Today: WTI and Brent Slide in Sync, Spread Holds at $4.69; Natural Gas Steady at $3.29 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/30/1258-crude-oil-price-today-wti-and-brent-slide-in-sync-spread-holds-at-469-natural-ga/)
 - [Oil Price Today: WTI Slips to $87.36, Brent Premium Surges to $4.69 – Natural Gas Steady at $3.29](https://crude-pattern.doubanfx.com/posts/2026/05/30/1020-oil-price-today-wti-slips-to-8736-brent-premium-surges-to-469-natural-gas-steady/)
+- [Crude Oil Price Today: Brent Premium Expands to $4.69 Amid WTI Weakness; Natural Gas Holds $3.29 as Storage Season Begins](https://crude-pattern.doubanfx.com/posts/2026/05/30/1110-crude-oil-price-today-brent-premium-expands-to-469-amid-wti-weakness-natural-gas/)
 - [Oil Price Today: WTI Holds $87.36 as Brent Premium Surges; Natural Gas Steady at $3.29 – Technical Forecast](https://crude-pattern.doubanfx.com/posts/2026/05/30/0506-oil-price-today-wti-holds-8736-as-brent-premium-surges-natural-gas-steady-at-329/)
 - [Crude Oil Price Today: Brent Premium Widens to $3.94 as WTI Holds Support; Natural Gas Tests $3.27 Amid Injection Season – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/2300-crude-oil-price-today-brent-premium-widens-to-394-as-wti-holds-support-natural-g/)
+- [Crude Oil Price Today: Brent Volatility Widens as WTI Holds Ground; Natural Gas Steady at $3.28 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/1915-crude-oil-price-today-brent-volatility-widens-as-wti-holds-ground-natural-gas-st/)
 - [Crude Oil Price Today: Brent Premium Widens to $4.69 as WTI, Brent Slide; Natural Gas Edges Up – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/30/0807-crude-oil-price-today-brent-premium-widens-to-469-as-wti-brent-slide-natural-gas/)
 - [Oil Price Today: WTI Holds $87.76 as Brent Volatility Surges; Natural Gas Steadies at $3.27 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/2223-oil-price-today-wti-holds-8776-as-brent-volatility-surges-natural-gas-steadies-a/)
+- [Crude Oil Price Today: WTI Holds $87.64, Brent Premium Nears $4; Natural Gas Flat at $3.28 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/2101-crude-oil-price-today-wti-holds-8764-brent-premium-nears-4-natural-gas-flat-at-3/)
 - [Oil Price Today: Divergent Crude Momentum as WTI-Brent Spread Nears $5; Natural Gas Holds $3.29 on Injection Season – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/30/0948-oil-price-today-divergent-crude-momentum-as-wti-brent-spread-nears-5-natural-gas/)
+- [Crude Oil Price Today: WTI Stabilizes at $87.73, Brent Premium Edges Higher; Natural Gas Holds $3.28 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/2025-crude-oil-price-today-wti-stabilizes-at-8773-brent-premium-edges-higher-natural/)
 - [Crude Oil Price Today: Divergent Volatility Highlights Market Fragmentation; Natural Gas Holds $3.27 Ahead of Storage Report](https://crude-pattern.doubanfx.com/posts/2026/05/30/0124-crude-oil-price-today-divergent-volatility-highlights-market-fragmentation-natur/)
 - [Oil Price Today: Brent Premium Holds Near $4 as Volatility Diverges; Natural Gas Flat at $3.27 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/30/0001-oil-price-today-brent-premium-holds-near-4-as-volatility-diverges-natural-gas-fl/)
+- [Crude Oil Price Today: Brent Volatility Diverges as WTI Holds; Natural Gas Edges Higher on Elevated Intraday Swings – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/1628-crude-oil-price-today-brent-volatility-diverges-as-wti-holds-natural-gas-edges-h/)
 - [Oil Price Today: Brent Premium Surges to $4.69 as WTI Struggles; Natural Gas Steady at $3.29 Ahead of Storage Data – Technical Outlook](https://crude-pattern.doubanfx.com/posts/2026/05/30/0734-oil-price-today-brent-premium-surges-to-469-as-wti-struggles-natural-gas-steady/)
+- [Crude Oil Price Today: WTI Relatively Resilient at $86.85 as Brent Slides; Natural Gas Edges Higher – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/1747-crude-oil-price-today-wti-relatively-resilient-at-8685-as-brent-slides-natural-g/)
 - [Crude Oil Price Today: WTI Tests $87.36 Support, Brent Premium Widens; Natural Gas Holds $3.29](https://crude-pattern.doubanfx.com/posts/2026/05/30/0443-crude-oil-price-today-wti-tests-8736-support-brent-premium-widens-natural-gas-ho/)
 - [Crude Oil Price Today: Brent Premium Holds Above $3.70 as Volatility Diverges; Natural Gas Edges Higher – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/1034-crude-oil-price-today-brent-premium-holds-above-370-as-volatility-diverges-natur/)
-- [Oil Price Today: WTI Holds Near $89, Brent Premium at $3.78, Natural Gas Climbs 1.1% – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/0857-oil-price-today-wti-holds-near-89-brent-premium-at-378-natural-gas-climbs-11-tec/)
-- [Crude Oil Price Today: Brent Volatility Widens as WTI Holds Ground; Natural Gas Steady at $3.28 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/1915-crude-oil-price-today-brent-volatility-widens-as-wti-holds-ground-natural-gas-st/)
-- [Oil Price Today: WTI, Brent Slide in Sync; Spread Holds Near $4 as Natural Gas Steadies](https://crude-pattern.doubanfx.com/posts/2026/05/29/0635-oil-price-today-wti-brent-slide-in-sync-spread-holds-near-4-as-natural-gas-stead/)
-- [Crude Oil Price Today: WTI Holds $87.64, Brent Premium Nears $4; Natural Gas Flat at $3.28 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/2101-crude-oil-price-today-wti-holds-8764-brent-premium-nears-4-natural-gas-flat-at-3/)
-- [Crude Oil Price Today: Brent Premium Compresses to $3.76 as WTI Outperforms; Natural Gas Consolidates at $3.31 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/0744-crude-oil-price-today-brent-premium-compresses-to-376-as-wti-outperforms-natural/)
-- [Crude Oil Price Today: WTI Stabilizes at $87.73, Brent Premium Edges Higher; Natural Gas Holds $3.28 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/2025-crude-oil-price-today-wti-stabilizes-at-8773-brent-premium-edges-higher-natural/)
-- [Oil Price Today: WTI Steadies, Brent Slides as Volatility Diverges; Natural Gas Rallies 2.1% – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/1417-oil-price-today-wti-steadies-brent-slides-as-volatility-diverges-natural-gas-ral/)
-- [Oil Price Today: WTI Holds Relative Strength as Brent Premium Compresses; Natural Gas Edges Higher – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/1349-oil-price-today-wti-holds-relative-strength-as-brent-premium-compresses-natural/)
+- [Crude Oil Price Today: Brent Premium Widens as WTI Slips; Natural Gas Holds $3.30 – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/0459-crude-oil-price-today-brent-premium-widens-as-wti-slips-natural-gas-holds-330-te/)
+- [Crude Oil Price Today: WTI Resilient Near $87.70 as Brent Premium Compresses; Natural Gas Surges 8.5% – Technical Analysis](https://crude-pattern.doubanfx.com/posts/2026/05/29/0346-crude-oil-price-today-wti-resilient-near-8770-as-brent-premium-compresses-natura/)
 
 ## Target Search Topics
 
